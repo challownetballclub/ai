@@ -1,0 +1,224 @@
+{
+  "schema_version": 1,
+  "hub_url": "https://www.challownetballclub.org.uk/ai/governance.md",
+  "synced_at": "2026-09-01T11:34:09Z",
+  "content_digest": "d678eeec20c8adcb205020158b1e36495b2cf03853e7a75f209a08606c7221fd",
+  "documents": [
+    {
+      "title": "Governance source hub",
+      "url": "https://www.challownetballclub.org.uk/ai/governance.md",
+      "final_url": "https://www.challownetballclub.org.uk/ai/governance.md",
+      "kind": "markdown",
+      "content_type": "text/markdown",
+      "path": "sources/governance.md",
+      "sha256": "9ab2e0f90532cc861faf8127faf8d718bc9797442d4c060aa770144bbdaeb398"
+    },
+    {
+      "title": "Constitution",
+      "url": "https://www.challownetballclub.org.uk/content/markdown/constitution.md",
+      "final_url": "https://www.challownetballclub.org.uk/content/markdown/constitution.md",
+      "kind": "markdown",
+      "content_type": "text/markdown",
+      "path": "sources/constitution.md",
+      "sha256": "b50900bf82dc48b409481bf30533f15f98d85d23b311f41b1153e67dfc14e7b3"
+    },
+    {
+      "title": "Committee Role Register",
+      "url": "https://www.challownetballclub.org.uk/content/markdown/committee-role-register.md",
+      "final_url": "https://www.challownetballclub.org.uk/content/markdown/committee-role-register.md",
+      "kind": "markdown",
+      "content_type": "text/markdown",
+      "path": "sources/committee-role-register.md",
+      "sha256": "08affd0af010e96f7af77e5c0b06a152bc681ee1f9dce47e5b7e216095b87323"
+    },
+    {
+      "title": "RACI responsibility matrix",
+      "url": "https://www.challownetballclub.org.uk/content/markdown/raci.md",
+      "final_url": "https://www.challownetballclub.org.uk/content/markdown/raci.md",
+      "kind": "markdown",
+      "content_type": "text/markdown",
+      "path": "sources/raci.md",
+      "sha256": "79d13f698c05acf40ea38ef65c3f23bda06e3f6794d009dfef7876e8510ed292"
+    },
+    {
+      "title": "Policy Register",
+      "url": "https://www.challownetballclub.org.uk/content/markdown/policy-register.md",
+      "final_url": "https://www.challownetballclub.org.uk/content/markdown/policy-register.md",
+      "kind": "markdown",
+      "content_type": "text/markdown",
+      "path": "sources/policy-register.md",
+      "sha256": "f000b64a9933322e09d3440717967c67b415081e60d9060710ebc328122ba263"
+    },
+    {
+      "title": "Financial Management and Delegated Authority Policy",
+      "url": "https://www.challownetballclub.org.uk/content/markdown/financial-policy.md",
+      "final_url": "https://www.challownetballclub.org.uk/content/markdown/financial-policy.md",
+      "kind": "markdown",
+      "content_type": "text/markdown",
+      "path": "sources/financial-policy.md",
+      "sha256": "bd162fec699955673f852ba86cc94930ae179cdeff5258546d59b5dc72b0044e"
+    },
+    {
+      "title": "Data Protection and Privacy Policy",
+      "url": "https://www.challownetballclub.org.uk/content/markdown/data-protection-policy.md",
+      "final_url": "https://www.challownetballclub.org.uk/content/markdown/data-protection-policy.md",
+      "kind": "markdown",
+      "content_type": "text/markdown",
+      "path": "sources/data-protection-policy.md",
+      "sha256": "1a36e366f72494367291fdabd0b0d9bd4c86ad61b0f34f606a8df58e0427d0f3"
+    },
+    {
+      "title": "Complaints and Resolution Policy",
+      "url": "https://www.challownetballclub.org.uk/content/markdown/complaints-policy.md",
+      "final_url": "https://www.challownetballclub.org.uk/content/markdown/complaints-policy.md",
+      "kind": "markdown",
+      "content_type": "text/markdown",
+      "path": "sources/complaints-policy.md",
+      "sha256": "e0e53985b66321523662d2bc7b881882d34f3dccce67319d117be599ed2a817d"
+    },
+    {
+      "title": "Conflict of Interest Policy",
+      "url": "https://www.challownetballclub.org.uk/content/markdown/conflict-policy.md",
+      "final_url": "https://www.challownetballclub.org.uk/content/markdown/conflict-policy.md",
+      "kind": "markdown",
+      "content_type": "text/markdown",
+      "path": "sources/conflict-policy.md",
+      "sha256": "c24d6ba80ab21cfa9616096114cd3de3bc7b0b0451b7b685b20ba792c93006c9"
+    },
+    {
+      "title": "President / Chairperson",
+      "url": "https://www.challownetballclub.org.uk/content/markdown/role-president-chair.md",
+      "final_url": "https://www.challownetballclub.org.uk/content/markdown/role-president-chair.md",
+      "kind": "markdown",
+      "content_type": "text/markdown",
+      "path": "sources/role-president-chair.md",
+      "sha256": "90cbd98e0d950fc637f616e86d6198c759b10d972c50044d88cdd83b1c370df7"
+    },
+    {
+      "title": "Secretary",
+      "url": "https://www.challownetballclub.org.uk/content/markdown/role-secretary.md",
+      "final_url": "https://www.challownetballclub.org.uk/content/markdown/role-secretary.md",
+      "kind": "markdown",
+      "content_type": "text/markdown",
+      "path": "sources/role-secretary.md",
+      "sha256": "386afb935c3915f2a694b78de24d1098cb288df0e4854448d1f0a56dc333f376"
+    },
+    {
+      "title": "Treasurer",
+      "url": "https://www.challownetballclub.org.uk/content/markdown/role-treasurer.md",
+      "final_url": "https://www.challownetballclub.org.uk/content/markdown/role-treasurer.md",
+      "kind": "markdown",
+      "content_type": "text/markdown",
+      "path": "sources/role-treasurer.md",
+      "sha256": "723b53e468804d59470588dc90cab214c7ae2a5ea608c9bd3bb3fb5d27d54f4b"
+    },
+    {
+      "title": "Registrar and Membership Officer",
+      "url": "https://www.challownetballclub.org.uk/content/markdown/role-membership.md",
+      "final_url": "https://www.challownetballclub.org.uk/content/markdown/role-membership.md",
+      "kind": "markdown",
+      "content_type": "text/markdown",
+      "path": "sources/role-membership.md",
+      "sha256": "410acc2bd4448b168ad076167230425045bf67b37cb41e8e01d8348c6322f653"
+    },
+    {
+      "title": "Welfare and Volunteer Coordinator",
+      "url": "https://www.challownetballclub.org.uk/content/markdown/role-welfare-volunteers.md",
+      "final_url": "https://www.challownetballclub.org.uk/content/markdown/role-welfare-volunteers.md",
+      "kind": "markdown",
+      "content_type": "text/markdown",
+      "path": "sources/role-welfare-volunteers.md",
+      "sha256": "4aaf4d8b0c2f3ca0265d01039ee69852989c3eea7caff96ff25d68017a006be9"
+    },
+    {
+      "title": "Head Coach",
+      "url": "https://www.challownetballclub.org.uk/content/markdown/role-head-coach.md",
+      "final_url": "https://www.challownetballclub.org.uk/content/markdown/role-head-coach.md",
+      "kind": "markdown",
+      "content_type": "text/markdown",
+      "path": "sources/role-head-coach.md",
+      "sha256": "94038f66f546c67c907851be3814340ffb9ee035d903d057766920c7060ba073"
+    },
+    {
+      "title": "Communications, Events and Sponsorship",
+      "url": "https://www.challownetballclub.org.uk/content/markdown/role-communications-events-sponsorship.md",
+      "final_url": "https://www.challownetballclub.org.uk/content/markdown/role-communications-events-sponsorship.md",
+      "kind": "markdown",
+      "content_type": "text/markdown",
+      "path": "sources/role-communications-events-sponsorship.md",
+      "sha256": "25275a535e8f7dc07be75678d96f24ab40081c3515bfbc22117b9c9117d58485"
+    },
+    {
+      "title": "Equipment and Facilities Manager",
+      "url": "https://www.challownetballclub.org.uk/content/markdown/role-equipment-facilities.md",
+      "final_url": "https://www.challownetballclub.org.uk/content/markdown/role-equipment-facilities.md",
+      "kind": "markdown",
+      "content_type": "text/markdown",
+      "path": "sources/role-equipment-facilities.md",
+      "sha256": "31dcc6b77b64e0de72c0cd7462516bd61df5b65ff8de966d17f783fd90751f24"
+    },
+    {
+      "title": "Safeguarding Officer",
+      "url": "https://www.challownetballclub.org.uk/content/markdown/role-safeguarding.md",
+      "final_url": "https://www.challownetballclub.org.uk/content/markdown/role-safeguarding.md",
+      "kind": "markdown",
+      "content_type": "text/markdown",
+      "path": "sources/role-safeguarding.md",
+      "sha256": "9c8ca4e2a2c32aec69690978747b0432be65974ae99cc446be499896ef502228"
+    },
+    {
+      "title": "Data Protection Lead",
+      "url": "https://www.challownetballclub.org.uk/content/markdown/role-data-protection.md",
+      "final_url": "https://www.challownetballclub.org.uk/content/markdown/role-data-protection.md",
+      "kind": "markdown",
+      "content_type": "text/markdown",
+      "path": "sources/role-data-protection.md",
+      "sha256": "65f3605b2598f6169e34abc1090c5a93f64f64017f3fe384e321d1fc46d617f2"
+    },
+    {
+      "title": "Resolution Lead",
+      "url": "https://www.challownetballclub.org.uk/content/markdown/role-resolution.md",
+      "final_url": "https://www.challownetballclub.org.uk/content/markdown/role-resolution.md",
+      "kind": "markdown",
+      "content_type": "text/markdown",
+      "path": "sources/role-resolution.md",
+      "sha256": "a92ab94c11ba8cc0c56a8a289acfcbc5141da9558f260f8f828d470f3ce6de23"
+    },
+    {
+      "title": "General Committee Member",
+      "url": "https://www.challownetballclub.org.uk/content/markdown/role-general-member.md",
+      "final_url": "https://www.challownetballclub.org.uk/content/markdown/role-general-member.md",
+      "kind": "markdown",
+      "content_type": "text/markdown",
+      "path": "sources/role-general-member.md",
+      "sha256": "99635df41d1fedee5f1a75376340aa133f0e7c5a12edb2702854402525a7381e"
+    },
+    {
+      "title": "Committee website how-to guide",
+      "url": "https://www.challownetballclub.org.uk/ai/website-how-to.md",
+      "final_url": "https://www.challownetballclub.org.uk/ai/website-how-to.md",
+      "kind": "markdown",
+      "content_type": "text/markdown",
+      "path": "sources/website-how-to.md",
+      "sha256": "20cfb5382d6b983d6549114b99fc6c8520b5cc25dfb9f270250b90feb8ddd1c0"
+    },
+    {
+      "title": "Current public content and role assignments (JSON)",
+      "url": "https://www.challownetballclub.org.uk/api/content",
+      "final_url": "https://www.challownetballclub.org.uk/api/content",
+      "kind": "json",
+      "content_type": "application/json",
+      "path": "data/current-content.json",
+      "sha256": "304ec3e056c0e97a4ada5d296844aae396892e0f0a57431dcf64538cd1758fc9"
+    },
+    {
+      "title": "Current published public governance records (JSON)",
+      "url": "https://www.challownetballclub.org.uk/api/governance?scope=public",
+      "final_url": "https://www.challownetballclub.org.uk/api/governance?scope=public",
+      "kind": "json",
+      "content_type": "application/json",
+      "path": "data/governance-public.json",
+      "sha256": "b44ab7045e09022f3da4b4f0490c8039356a1f4c5090da527b677bc9e0ea97b9"
+    }
+  ]
+}
