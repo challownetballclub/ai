@@ -27,7 +27,7 @@ The Club should maintain a bank account in its own name. Where supported, paymen
 
 ## Budget and reporting
 
-The Treasurer should prepare an annual budget for Committee approval. At regular Committee meetings the Treasurer should report bank balance, income and expenditure, material commitments, budget position and significant financial risks. Annual financial information should be presented to members at the AGM.
+The Treasurer must prepare and circulate the proposed annual budget to the Management Committee in July for the forthcoming season. The Management Committee must consider and approve the annual budget in August, with the approval recorded in the minutes. At regular Committee meetings the Treasurer should report bank balance, income and expenditure, material commitments, budget position and significant financial risks. Annual financial information should be presented to members at the AGM.
 
 ## Purchasing and reimbursement
 
