@@ -1,0 +1,31 @@
+{
+  "name": "challow-governance-guide",
+  "version": "0.1.0",
+  "description": "Read-only guidance for Challow Netball Club governance and committee website tasks.",
+  "author": {
+    "name": "Challow Netball Club",
+    "url": "https://www.challownetballclub.org.uk"
+  },
+  "homepage": "https://www.challownetballclub.org.uk",
+  "repository": "https://github.com/challownetballclub/ai",
+  "keywords": [
+    "challow-netball-club",
+    "governance",
+    "committee"
+  ],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Challow Governance Guide",
+    "shortDescription": "Club governance and committee website guidance.",
+    "longDescription": "Answers questions about Challow Netball Club governance, policies, committee responsibilities, approvals, meetings, and public website procedures using current published club sources.",
+    "developerName": "Challow Netball Club",
+    "category": "Productivity",
+    "capabilities": [],
+    "websiteURL": "https://www.challownetballclub.org.uk",
+    "defaultPrompt": [
+      "What approvals are needed for a club expense?",
+      "What does this committee role cover?",
+      "How do I update the Challow Netball Hub?"
+    ]
+  }
+}
