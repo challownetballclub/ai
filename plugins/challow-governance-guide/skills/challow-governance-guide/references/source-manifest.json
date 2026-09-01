@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
   "hub_url": "https://www.challownetballclub.org.uk/ai/governance.md",
-  "synced_at": "2026-09-01T11:34:09Z",
-  "content_digest": "d678eeec20c8adcb205020158b1e36495b2cf03853e7a75f209a08606c7221fd",
+  "synced_at": "2026-09-01T14:33:16Z",
+  "content_digest": "f977d49f52d640a59bbcfef922c2871665b8d8e76f97b3430b8597a47f3122cf",
   "documents": [
     {
       "title": "Governance source hub",
@@ -56,7 +56,7 @@
       "kind": "markdown",
       "content_type": "text/markdown",
       "path": "sources/financial-policy.md",
-      "sha256": "bd162fec699955673f852ba86cc94930ae179cdeff5258546d59b5dc72b0044e"
+      "sha256": "8b07b0862d3e0500b7e8f6f73ea067b40ccfa0551507e787bd4e8e53d930b2dd"
     },
     {
       "title": "Data Protection and Privacy Policy",
