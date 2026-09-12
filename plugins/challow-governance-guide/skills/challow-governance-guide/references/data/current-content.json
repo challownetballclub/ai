@@ -83,7 +83,7 @@
       "category": "Core elected Officer",
       "committee": "Contact Louise for strategic direction, meeting leadership, governance decisions, escalation of cross-functional issues, or when an action needs clear ownership across the Committee.",
       "hours": 4,
-      "parent": "Contact the chairperson when you need senior Club guidance, have a matter that cuts across several areas, want to raise a governance concern, or are unsure who else should deal with an issue.",
+      "parent": "Contact the chairperson when you need senior Club guidance, have a matter that cuts across several areas or want to raise a governance concern",
       "people": [
         "Louise Swatton 2"
       ],
@@ -98,11 +98,11 @@
       "category": "Core elected Officer",
       "committee": "Contact the secretary for agendas, minutes, governance records, formal correspondence, policy control and administrative follow-up.",
       "hours": 4,
-      "parent": "Contact the secretary for formal Club administration, meeting or AGM information, official records, or questions about how a Club decision was recorded.",
+      "parent": "Contact the secretary for formal Club administration, meeting or AGM information, official records, or questions about how a Club decision was recorded. If you have a questions and are unsure of who to ask, the secretary can ensure the right parties are involved",
       "people": [
-        "Katie"
+        "Katie Legge"
       ],
-      "person": "Katie",
+      "person": "Katie Legge",
       "role": "Secretary",
       "sequence": 2,
       "slug": "role-secretary",
@@ -115,9 +115,9 @@
       "hours": 4,
       "parent": "Contact the treasurer for membership-payment questions, reimbursements, Club charges or another issue that specifically relates to Club finances.",
       "people": [
-        "Helen"
+        "Dr Helen Smyth"
       ],
-      "person": "Helen",
+      "person": "Dr Helen Smyth",
       "role": "Treasurer",
       "sequence": 3,
       "slug": "role-treasurer",
@@ -145,9 +145,9 @@
       "hours": 1.5,
       "parent": "Contact the Data Protection Lead if you have questions about how the Club uses your or your child's personal information, want information corrected, or believe information may have been shared or accessed incorrectly.",
       "people": [
-        "Louise"
+        "Louise Swatton 2"
       ],
-      "person": "Louise",
+      "person": "Louise Swatton 2",
       "role": "Data Protection Lead",
       "sequence": 5,
       "slug": "role-data-protection",
@@ -160,9 +160,9 @@
       "hours": 1,
       "parent": "Contact the Resolution Lead for a complaint or dispute that has not been resolved through the normal role holder, or when you need help understanding the appropriate route for a concern.",
       "people": [
-        "Narelle"
+        "Narelle Barker"
       ],
-      "person": "Narelle",
+      "person": "Narelle Barker",
       "role": "Resolution Lead",
       "sequence": 6,
       "slug": "role-resolution",
@@ -175,9 +175,9 @@
       "hours": 2,
       "parent": "Contact the Registrar for membership, player registration, ENgage, affiliation or eligibility questions.",
       "people": [
-        "Katie"
+        "Katie Legge"
       ],
-      "person": "Katie",
+      "person": "Katie Legge",
       "role": "Registrar & Membership Officer",
       "sequence": 7,
       "slug": "role-membership",
@@ -190,9 +190,9 @@
       "hours": 3,
       "parent": "Contact the Volunteer Coordinator if you would like to volunteer, can help a team or event, need support understanding a volunteer role, or the Welfare Officer if have a general welfare concern that is not a safeguarding allegation.",
       "people": [
-        "Narelle"
+        "Narelle Barker"
       ],
-      "person": "Narelle",
+      "person": "Narelle Barker",
       "role": "Welfare Officer & Volunteer Coordinator",
       "sequence": 8,
       "slug": "role-welfare-volunteers",
@@ -220,9 +220,9 @@
       "hours": 4,
       "parent": "Contact the Communications, Events & Sponsorship Coordinator for Club events, public communications, social media, fundraising activities, sponsorship opportunities or information that may be suitable for promotion.",
       "people": [
-        "Lynsey & Daisy"
+        "Lynsey Butler"
       ],
-      "person": "Lynsey & Daisy",
+      "person": "Lynsey Butler",
       "role": "Communications, Events & Sponsorship Coordinator",
       "sequence": 10,
       "slug": "role-communications-events-sponsorship",
@@ -235,9 +235,9 @@
       "hours": 1.5,
       "parent": "Contact the Equipment & Facilities Manager for practical questions about Club equipment, facilities, kit/property arrangements or an equipment/facility issue that needs attention. NOTE that the kit bags will contain QR code for logging equipment issues, please use this to log issues directly to the Equipment & Facilities Manager.",
       "people": [
-        "Narelle"
+        "Narelle Barker"
       ],
-      "person": "Narelle",
+      "person": "Narelle Barker",
       "role": "Equipment & Facilities Manager",
       "sequence": 11,
       "slug": "role-equipment-facilities",
@@ -250,9 +250,11 @@
       "hours": 3,
       "parent": "General committee members can help route general Club questions, support projects and provide another Committee point of contact when you are unsure where an issue belongs.",
       "people": [
-        "David & Rachel"
+        "David Barker",
+        "Zoe Walker",
+        "Rachel Matthews"
       ],
-      "person": "David & Rachel",
+      "person": "David Barker and Zoe Walker and Rachel Matthews",
       "role": "General Committee Member",
       "sequence": 12,
       "slug": "role-general-member",
