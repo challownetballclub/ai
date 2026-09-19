@@ -278,32 +278,6 @@
     {
       "bodyMarkdown": "",
       "calendarVisible": true,
-      "end": "2026-09-12T12:00:00Z",
-      "id": "event-7a743cfd-9362-4291-9d35-d78415c8c482",
-      "location": "TBC",
-      "minutes": "",
-      "start": "2026-09-12T06:00:00Z",
-      "status": "scheduled",
-      "summary": "",
-      "title": "Challow Netball - Seeding Tournament",
-      "type": "public"
-    },
-    {
-      "bodyMarkdown": "",
-      "calendarVisible": true,
-      "end": "2026-09-14T19:00:00.000Z",
-      "id": "event-34bdbe9c-dfbd-42c8-9127-e30f5838a0d7",
-      "location": "TBC",
-      "minutes": "",
-      "start": "2026-09-14T16:00:00.000Z",
-      "status": "scheduled",
-      "summary": "",
-      "title": "Challow Netball - U17s 1st Game 2026",
-      "type": "public"
-    },
-    {
-      "bodyMarkdown": "",
-      "calendarVisible": true,
       "end": "2026-09-01T18:00:00.000Z",
       "id": "event-1bd4dc4c-27db-4749-9da8-854f9c403a00",
       "location": "West Site",
