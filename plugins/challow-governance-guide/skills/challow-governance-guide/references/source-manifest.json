@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
   "hub_url": "https://www.challownetballclub.org.uk/ai/governance.md",
-  "synced_at": "2026-09-01T14:33:16Z",
-  "content_digest": "f977d49f52d640a59bbcfef922c2871665b8d8e76f97b3430b8597a47f3122cf",
+  "synced_at": "2026-09-26T09:55:07Z",
+  "content_digest": "b370badb1db1a384866486b338129291a7cc5682af66e9883c49c9a4002d0320",
   "documents": [
     {
       "title": "Governance source hub",
@@ -209,7 +209,7 @@
       "kind": "json",
       "content_type": "application/json",
       "path": "data/current-content.json",
-      "sha256": "304ec3e056c0e97a4ada5d296844aae396892e0f0a57431dcf64538cd1758fc9"
+      "sha256": "4d5dd7f40cbadf12a863d02a970f5a94ba63d6ca0034354ec29cce331cf95f0d"
     },
     {
       "title": "Current published public governance records (JSON)",
@@ -218,7 +218,7 @@
       "kind": "json",
       "content_type": "application/json",
       "path": "data/governance-public.json",
-      "sha256": "b44ab7045e09022f3da4b4f0490c8039356a1f4c5090da527b677bc9e0ea97b9"
+      "sha256": "a6e9f64f9e681393400f3da10f02c1d47c18b3462c69df21c5aa2dc9e1718b6f"
     }
   ]
 }
